@@ -1,0 +1,20 @@
+(gnn_dgl_env) C:\GNN-Test>python visualize_features.py
+Total images found: 724
+Same viewpoint cosine similarity:
+Label 2 (same viewpoint) average cosine similarity: 0.9983
+Label 3 (same viewpoint) average cosine similarity: 0.9983
+Label 0 (same viewpoint) average cosine similarity: 0.9982
+Label 1 (same viewpoint) average cosine similarity: 0.9983
+Label 4 (same viewpoint) average cosine similarity: 0.9982
+
+Different viewpoint cosine similarity:
+Average cosine similarity between Label 2 and Label 3: 0.9982
+Average cosine similarity between Label 2 and Label 0: 0.9982
+Average cosine similarity between Label 2 and Label 1: 0.9982
+Average cosine similarity between Label 2 and Label 4: 0.9982
+Average cosine similarity between Label 3 and Label 0: 0.9982
+Average cosine similarity between Label 3 and Label 1: 0.9982
+Average cosine similarity between Label 3 and Label 4: 0.9982
+Average cosine similarity between Label 0 and Label 1: 0.9982
+Average cosine similarity between Label 0 and Label 4: 0.9982
+Average cosine similarity between Label 1 and Label 4: 0.9982
